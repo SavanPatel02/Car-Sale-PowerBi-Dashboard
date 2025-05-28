@@ -68,6 +68,11 @@ This project sharpened my skills in:
 * Designing user-friendly layouts that drive clear understanding
 
 ---
+### PowerBI File link
+
+https://drive.google.com/file/d/17Us9s0Wb9pnXNSLW5pkQ9zaDYGJNXQsq/view?usp=sharing
+
+---
 
 📢 I'm open to feedback and collaboration!
 If you're into data analytics, business intelligence, or just love building visual dashboards — let’s connect!
