@@ -70,7 +70,7 @@ This project sharpened my skills in:
 ---
 ### PowerBI File link
 
-https://drive.google.com/file/d/17Us9s0Wb9pnXNSLW5pkQ9zaDYGJNXQsq/view?usp=sharing
+[https://drive.google.com/file/d/17Us9s0Wb9pnXNSLW5pkQ9zaDYGJNXQsq/view?usp=sharing](https://drive.google.com/drive/folders/1Kvew_30MVqYRUko2gcnM34Lpk4SPhfc_?usp=drive_link)
 
 ---
 
